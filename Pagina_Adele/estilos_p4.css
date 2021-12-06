@@ -1,0 +1,80 @@
+#primero{
+	background-color: #EDEDED;
+	width: 60%;
+	height:85%;
+	margin-right: 85px;
+}
+#segundo{
+	background-color: #F8F9F9;
+	width: 30%;
+	height: 100%;
+}
+div{
+	margin: 2px;
+}
+h1{
+	text-align: center;
+	font-size: 70px;
+	font-family: 'Anton', sans-serif;
+	font-family: 'Lobster', cursive;
+}
+h3{
+	font-family: 'PT Serif', serif;
+	font-size: 28px;
+}
+h2{
+	font-family: 'Courgette', cursive;
+	font-size: 25px;
+}
+h4{
+	font-family: 'Poppins', sans-serif;
+	font-weight: bold; 
+	text-align: justify;
+}
+img{
+	margin: auto;
+	display: block;
+}
+.borde{
+	margin-bottom: : 5px;
+	border-width: 3px;
+	border-style: solid;
+}
+.caja{
+	float:left;
+}
+#contenedor{
+	margin-top:50px;
+	margin-right:50px;
+	margin-bottom:30px;
+	margin-left:85px;
+}
+.cabecera{
+	background-color: #63B4B8;
+}
+.d_normal{
+	display: block;
+}
+.d_inline-block{
+	display: inline-block;
+	margin: 10px;
+	width:45%;
+	height: 450px;
+}
+.d_inline-flex{
+	display: inline-flex;
+	
+	width: 161px;
+	height:180px;
+}
+.cancion {
+	display: inline-block;
+	margin: 10px;
+	width:45%;
+	height: 200px;
+	font-family: 'Italianno', cursiva;
+	text-align: center;
+}
+.title-song{
+	font-family: 'Calabacín', cursiva;
+}
